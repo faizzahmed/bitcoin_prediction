@@ -1,4 +1,4 @@
-# Overview
+﻿# Overview
 
 This is the code for [this](https://youtu.be/EqWm8A-dRYg) video on Youtube by Siraj Raval on Bitcoin Prediction. 
 
@@ -28,3 +28,5 @@ We have used Tableau to generate plots in real-time form the sql-database mentio
 # Credits
 
 Credits for this code go to [sapphirine](https://github.com/Sapphirine/BITCOIN-PRICE-PREDICTION-USING-SENTIMENT-ANALYSIS). I've merely created a wrapper to get people started. 
+
+--GIT clone 
